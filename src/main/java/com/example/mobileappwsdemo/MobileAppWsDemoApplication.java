@@ -1,0 +1,13 @@
+package com.example.mobileappwsdemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MobileAppWsDemoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MobileAppWsDemoApplication.class, args);
+    }
+
+}
