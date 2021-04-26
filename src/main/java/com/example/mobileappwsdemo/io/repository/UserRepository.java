@@ -1,4 +1,4 @@
-package com.example.mobileappwsdemo;
+package com.example.mobileappwsdemo.io.repository;
 
 import com.example.mobileappwsdemo.io.entity.UserEntity;
 import org.springframework.data.jpa.repository.Query;
